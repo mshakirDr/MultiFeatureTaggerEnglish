@@ -1,3 +1,6 @@
+# In addition to below:
+`MFTE_3.0_extended.pl` contains the extended version as it was used in my researh paper. A more recent version will be released in Python (link tbd). This script needs Stanford Tagger tagged texts (should be tagged separately). Stanford tagged texts should be in the folder named ending with `_MFTE_tagged`, e.g. `corpus_MFTE_tagged` where `corpus` is the folder with original texts. The rest of the command is the same as Le Foll's original description below. Just use the correct script name that is `MFTE_3.0_extended.pl`.
+
 # The Multi-Feature Tagger of English (MFTE) v.3.0
 
 The Multi-Feature Tagger of English (hereafter: the MFTE) is an automatic tagger for the analysis of situational variation in standard written and spoken general English. The MFTE was originally developed for use in multi-feature/multi-dimensional analysis (MDA; Biber 1984; 1988; 1995; Conrad & Biber 2013), a widely used framework first developed by Douglas Biber in the late 1980s. In short, MDA is based on the theoretical assumption that register-based variation can be observed as differences in patterns of co-occurring lexico-grammatical features, which result from texts having register-specific communicative goals and contexts of use.
