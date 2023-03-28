@@ -1,5 +1,5 @@
 # In addition to below:
-`MFTE_3.0_extended.pl` contains the extended version as it was used in my researh paper. A more recent version will be released in Python (link tbd). This script needs Stanford Tagger tagged texts (should be tagged separately). Stanford tagged texts should be in the folder named ending with `_MFTE_tagged`, e.g. `corpus_MFTE_tagged` where `corpus` is the folder with original texts. The rest of the command is the same as Le Foll's original description below. Just use the correct script name that is `MFTE_3.0_extended.pl`.
+`MFTE_3.0_extended.pl` contains the extended version as it was used in my researh paper. A more recent version will be released in Python (link tbd). This script needs Stanford Tagger tagged texts (should be tagged separately). Stanford tagged texts should be in the folder named ending with `_MFTE_tagged`, e.g. `corpus_MFTE_tagged` where `corpus` is the folder with original texts. The rest of the command is the same as Le Foll's original description below. Just use the correct script name that is `MFTE_3.0_extended.pl`. The time spent on this modification was funded by the Deutsche Forschungsgemein-schaft (DFG, German Research Foundation) grant number 452561886.
 
 # The Multi-Feature Tagger of English (MFTE) v.3.0
 
